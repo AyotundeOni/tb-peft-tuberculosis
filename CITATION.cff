@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the preprint."
+title: "Parameter-efficient adaptation of radiology foundation models for TB detection"
+authors:
+  - family-names: Oni
+    given-names: Ayotunde Samuel
+license: MIT
+repository-code: "https://github.com/AyotundeOni/tb-peft-tuberculosis"
+preferred-citation:
+  type: article
+  title: "Parameter-Efficient Adaptation of Radiology Foundation Models for Tuberculosis Detection in Low-Data Regimes: A Systematic Comparison of LoRA, BitFit, Linear Probing, and Full Fine-Tuning"
+  authors:
+    - family-names: Oni
+      given-names: Ayotunde Samuel
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: "10.5281/zenodo.21480007"

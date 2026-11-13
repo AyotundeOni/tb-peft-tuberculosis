@@ -1,0 +1,22 @@
+config,test_dataset,ensemble_auroc
+biomedclip/lora r=4,kaggle_tb,0.8907938775510204
+biomedclip/lora r=4,montgomery,0.8839224137931033
+biomedclip/lora r=4,tbx11k,0.814949595810335
+biomedclip/lora r=8,kaggle_tb,0.9112994693877552
+biomedclip/lora r=8,montgomery,0.8851293103448276
+biomedclip/lora r=8,tbx11k,0.8051552110043897
+biomedclip/lora r=16,kaggle_tb,0.9027742857142856
+biomedclip/lora r=16,montgomery,0.9033620689655171
+biomedclip/lora r=16,tbx11k,0.8016552979268982
+rad_dino/lora r=4,kaggle_tb,0.8721281224489795
+rad_dino/lora r=4,montgomery,0.9193749999999999
+rad_dino/lora r=4,tbx11k,0.9223258507540528
+rad_dino/lora r=8,kaggle_tb,0.8917536326530613
+rad_dino/lora r=8,montgomery,0.9243965517241379
+rad_dino/lora r=8,tbx11k,0.9331222456430093
+rad_dino/lora r=16 [no CLAHE],kaggle_tb,0.9290651836734692
+rad_dino/lora r=16 [no CLAHE],montgomery,0.9610344827586207
+rad_dino/lora r=16 [no CLAHE],tbx11k,0.9353873701595028
+rad_dino/lora r=16,kaggle_tb,0.9012790612244898
+rad_dino/lora r=16,montgomery,0.9304956896551723
+rad_dino/lora r=16,tbx11k,0.9303151375548699
